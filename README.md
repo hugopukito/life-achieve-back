@@ -21,7 +21,7 @@ CREATE DATABASE IF NOT EXISTS life_achieve;
 
 exit
 
-### Load database file -> not existing yet
+### Load database file
 
 mysql -u root -p life_achieve < life_achieve.sql
 
